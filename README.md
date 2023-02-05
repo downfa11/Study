@@ -1,2 +1,3 @@
 # C++
-C++ study
+C++, Python study.
+Flask, ML, Algorithm, Data Structures
